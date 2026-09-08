@@ -1,0 +1,9 @@
+{
+    "name": "eslint-plugin-odoo-import-order",
+    "version": "1.0.0",
+    "description": "ESLint rule enforcing the Odoo JS import ordering convention",
+    "main": "index.js",
+    "peerDependencies": {
+        "eslint": ">=8"
+    }
+}

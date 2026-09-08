@@ -1,0 +1,11 @@
+{
+    "root": true,
+    "parserOptions": {
+        "sourceType": "module",
+        "ecmaVersion": 2022
+    },
+    "plugins": ["odoo-import-order"],
+    "rules": {
+        "odoo-import-order/sort-imports": "error"
+    }
+}

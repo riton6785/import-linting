@@ -1,0 +1,13 @@
+{
+    "name": "odoo-import-linting",
+    "version": "1.0.0",
+    "description": "Standalone import-ordering lint pass, on top of the web/tooling rules",
+    "private": true,
+    "dependencies": {
+        "eslint": "^8.27.0",
+        "eslint-plugin-odoo-import-order": "file:./eslint-plugin-odoo-import-order"
+    },
+    "engines": {
+        "node": ">= 16.11.0"
+    }
+}
